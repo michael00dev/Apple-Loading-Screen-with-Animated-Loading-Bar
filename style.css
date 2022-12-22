@@ -36,7 +36,7 @@ ion-icon {
   height: 4px;
   background-color: #fff;
   border-radius: 4px;
-  animation: load 15s linear;
+  animation: load 15s linear infinite;
 }
 
 @keyframes load {
